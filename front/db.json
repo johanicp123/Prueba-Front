@@ -18,5 +18,12 @@
       "capital_bursatil": "2",
       "id": 4
     }
+  ],
+  "usuarios": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 1
+    }
   ]
 }
